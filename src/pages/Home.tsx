@@ -61,15 +61,15 @@ const Home = () => {
           {/* Quick Stats */}
           <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">
             <div className="text-center p-6 bg-card rounded-lg shadow-card hover:shadow-hover transition-shadow duration-300">
-              <div className="text-3xl font-heading font-semibold text-primary mb-2">50+</div>
+              <div className="text-3xl font-heading font-semibold text-primary mb-2">10+</div>
               <div className="text-muted-foreground font-body">Publications</div>
             </div>
             <div className="text-center p-6 bg-card rounded-lg shadow-card hover:shadow-hover transition-shadow duration-300">
-              <div className="text-3xl font-heading font-semibold text-primary mb-2">15+</div>
+              <div className="text-3xl font-heading font-semibold text-primary mb-2">5+</div>
               <div className="text-muted-foreground font-body">Research Projects</div>
             </div>
             <div className="text-center p-6 bg-card rounded-lg shadow-card hover:shadow-hover transition-shadow duration-300">
-              <div className="text-3xl font-heading font-semibold text-primary mb-2">5+</div>
+              <div className="text-3xl font-heading font-semibold text-primary mb-2">2+</div>
               <div className="text-muted-foreground font-body">Years Experience</div>
             </div>
           </div>
