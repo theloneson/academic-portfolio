@@ -173,14 +173,14 @@ const Contact = () => {
                   <Mail className="text-primary mt-1" size={18} />
                   <div>
                     <p className="font-body font-medium text-foreground">Email</p>
-                    <p className="font-body text-sm text-muted-foreground">dr.academic@university.edu</p>
+                    <p className="font-body text-sm text-muted-foreground">ayanfeoluwaadekanye1@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3">
                   <Phone className="text-primary mt-1" size={18} />
                   <div>
                     <p className="font-body font-medium text-foreground">Office Phone</p>
-                    <p className="font-body text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="font-body text-sm text-muted-foreground">+243 (807) 203-1133</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3">
@@ -190,7 +190,7 @@ const Contact = () => {
                     <p className="font-body text-sm text-muted-foreground">
                       Science Building, Room 304<br />
                       Research University<br />
-                      City, State 12345
+                      City, State idk
                     </p>
                   </div>
                 </div>
