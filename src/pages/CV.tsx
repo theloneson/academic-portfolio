@@ -7,7 +7,7 @@ const CV = () => {
     // In a real implementation, this would download the actual CV PDF
     const link = document.createElement('a');
     link.href = '/cv-placeholder.pdf';
-    link.download = 'Dr_Academic_CV.pdf';
+    link.download = 'My-CV.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
