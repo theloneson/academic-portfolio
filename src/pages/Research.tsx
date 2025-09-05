@@ -94,7 +94,7 @@ const Research = () => {
             Current Research Focus
           </h2>
           <p className="font-body text-muted-foreground leading-relaxed max-w-3xl mx-auto">
-            Currently investigating the intersection of artificial intelligence and computational biology, 
+            Currently investigating the intersection of artificial intelligence, 
             with particular emphasis on developing scalable algorithms for genomic data analysis and 
             personalized medicine applications. This work involves collaboration with leading research 
             institutions and industry partners.
