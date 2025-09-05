@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { FileText, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import profileHero from '@/assets/profile-hero.jpg';
+import profileHero from '@/assets/ayanfe lol.jpg';
 
 const Home = () => {
   return (
@@ -14,7 +14,7 @@ const Home = () => {
               <div className="w-48 h-48 rounded-full overflow-hidden shadow-hover border-4 border-background animate-float">
                 <img
                   src={profileHero}
-                  alt="Dr. Academic Profile"
+                  alt="Oluwanifemi Adekanye Image"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -29,7 +29,7 @@ const Home = () => {
           
           {/* Tagline */}
           <p className="font-body text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-            Advancing knowledge through innovative research in computational sciences and interdisciplinary collaboration
+            Advancing knowledge through innovative research in Mechatronics and interdisciplinary collaboration
           </p>
 
           {/* Action Buttons */}
