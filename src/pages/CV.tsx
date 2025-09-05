@@ -129,24 +129,7 @@ const CV = () => {
               <p className="text-sm text-muted-foreground mt-2 leading-relaxed">
                 Leading research in computational biology and machine learning. Teaching graduate and 
                 undergraduate courses in data science and algorithms. Supervising Ph.D. and M.S. students.
-              </p>
-            </div>
-            <div className="border-l-4 border-primary/40 pl-6 py-2">
-              <h3 className="font-body font-semibold text-foreground text-lg">Postdoctoral Researcher</h3>
-              <p className="text-primary font-medium">Institute for Advanced Study</p>
-              <p className="text-muted-foreground">2020 - 2021</p>
-              <p className="text-sm text-muted-foreground mt-2 leading-relaxed">
-                Conducted interdisciplinary research at the intersection of computer science and biology. 
-                Collaborated with leading researchers on high-impact projects.
-              </p>
-            </div>
-            <div className="border-l-4 border-primary/40 pl-6 py-2">
-              <h3 className="font-body font-semibold text-foreground text-lg">Research Assistant</h3>
-              <p className="text-primary font-medium">Machine Learning Lab, University of Excellence</p>
-              <p className="text-muted-foreground">2016 - 2020</p>
-              <p className="text-sm text-muted-foreground mt-2 leading-relaxed">
-                Developed novel algorithms for large-scale data analysis. Published research in top-tier 
-                conferences and journals. Collaborated on industry partnerships.
+                P.S I got bored tbh
               </p>
             </div>
           </CardContent>
