@@ -24,7 +24,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="font-heading text-xl font-semibold text-primary hover:text-primary-hover transition-colors">
-            Oluwanifemi
+            Oluwanifemi Adekanye
           </Link>
 
           {/* Desktop Navigation */}
