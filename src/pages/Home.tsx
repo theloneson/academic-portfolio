@@ -29,7 +29,7 @@ const Home = () => {
           
           {/* Tagline */}
           <p className="font-body text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-            Advancing knowledge through innovative research in Mechatronics and interdisciplinary collaboration
+            Hello there, I'm a shit head
           </p>
 
           {/* Action Buttons */}
