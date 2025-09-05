@@ -71,19 +71,19 @@ const CV = () => {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="border-l-4 border-primary/30 pl-4">
-                <h3 className="font-body font-semibold text-foreground">Ph.D. in Computer Science</h3>
-                <p className="text-muted-foreground">University of Excellence, 2020</p>
-                <p className="text-sm text-muted-foreground">Thesis: "Advanced Machine Learning for Complex Systems"</p>
+                <h3 className="font-body font-semibold text-foreground">Ph.D. in Simping</h3>
+                <p className="text-muted-foreground">University of Simpsons, 2020</p>
+                <p className="text-sm text-muted-foreground">Thesis: "Begged her for head"</p>
               </div>
               <div className="border-l-4 border-primary/30 pl-4">
-                <h3 className="font-body font-semibold text-foreground">M.S. in Data Science</h3>
-                <p className="text-muted-foreground">Institute of Technology, 2016</p>
-                <p className="text-sm text-muted-foreground">Magna Cum Laude</p>
+                <h3 className="font-body font-semibold text-foreground">M.S. in Being a Virgin</h3>
+                <p className="text-muted-foreground">Institute of Virginity, 2016</p>
+                <p className="text-sm text-muted-foreground">Gooners Ville</p>
               </div>
               <div className="border-l-4 border-primary/30 pl-4">
-                <h3 className="font-body font-semibold text-foreground">B.S. in Mathematics</h3>
-                <p className="text-muted-foreground">State University, 2014</p>
-                <p className="text-sm text-muted-foreground">Summa Cum Laude, Phi Beta Kappa</p>
+                <h3 className="font-body font-semibold text-foreground">B.S. in Being a shit head</h3>
+                <p className="text-muted-foreground">figure this out yourself</p>
+                <p className="text-sm text-muted-foreground">Figure this out yourself</p>
               </div>
             </CardContent>
           </Card>
@@ -96,16 +96,16 @@ const CV = () => {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="border-l-4 border-accent/60 pl-4">
-                <h3 className="font-body font-semibold text-foreground">Excellence in Research Award</h3>
-                <p className="text-muted-foreground">Academic Society, 2024</p>
+                <h3 className="font-body font-semibold text-foreground">Gooner of the Year</h3>
+                <p className="text-muted-foreground">Gooners Society, 2025</p>
               </div>
               <div className="border-l-4 border-accent/60 pl-4">
-                <h3 className="font-body font-semibold text-foreground">Best Paper Award</h3>
-                <p className="text-muted-foreground">International Conference, 2023</p>
+                <h3 className="font-body font-semibold text-foreground">Best Edger Award</h3>
+                <p className="text-muted-foreground">International Conference of Edgers, 2023</p>
               </div>
               <div className="border-l-4 border-accent/60 pl-4">
-                <h3 className="font-body font-semibold text-foreground">Young Researcher Grant</h3>
-                <p className="text-muted-foreground">Research Foundation, 2022</p>
+                <h3 className="font-body font-semibold text-foreground">Young Edger Grant</h3>
+                <p className="text-muted-foreground">Edger Foundation, 2022</p>
               </div>
             </CardContent>
           </Card>
