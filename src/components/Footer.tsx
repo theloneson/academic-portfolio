@@ -13,7 +13,7 @@ const Footer = () => {
             Last updated: {currentDate}
           </p>
           <p className="font-body text-xs text-muted-foreground mt-2">
-            © 2024 Dr. Academic. All rights reserved.
+            © 2025 Oluwanifemi Adekanye. All rights reserved.
           </p>
         </div>
       </div>
